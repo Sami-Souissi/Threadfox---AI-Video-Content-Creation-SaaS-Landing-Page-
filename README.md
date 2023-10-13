@@ -1,8 +1,31 @@
+<p align="center">
+    <img width="30%" src="./Preview/logo.png" alt="brand logo" >
+</p>
+
 # Welcome to Threadfox - Automated Video Content Creation SaaS
 
 ## Disclaimer
 
 **Please Note:** The code for this software is strictly classified, as it is currently in the process of being prepared for production and release. This landing page is intended for demonstration purposes only. Any unauthorized use, distribution, or replication of this code is strictly prohibited.
+
+## Preview
+![THREADFOX](./Preview/Image0001@0.75x.png)
+<details>
+  <summary>Click to expand for more images</summary>
+
+  ![Image 1](./Preview/188.png)
+  ![Image 2](./Preview/3.png)
+  ![Image 3](./Preview/4.png)
+ 
+
+</details>
+
+## Live Demo
+
+🌐 Explore the live demo of THREADFOX's landing page: [**Live Demo**](https://sami-souissi.github.io/Threadfox---Automated-Video-Content-Creation-SaaS-Landing-Page-/) 
+
+**Check out Threadfox's Dashboard:** [**Go to Dashboard**](https://github.com/Sami-Souissi/Threadfox---AI-Video-Content-Creation-SaaS)
+
 
 ## Elevate Your Video Content Creation
 
@@ -40,6 +63,15 @@ Our backend relies on Python libraries such as boto3, gTTS, moviepy, praw, pytub
 
 Threadfox allows you to bridge the gap between automation and creativity. Elevate your content strategy and create captivating videos effortlessly. Get ready to redefine your video production workflow.
 
----
+## Output
 
-For more information, visit our [GitHub repository](https://github.com/your-threadfox-repo) and stay tuned for our upcoming release!
+## Contributing
+
+We welcome contributions from the developer community to make Threadfox even better. Please follow our [contribution guidelines](CONTRIBUTING.md) to get started.
+
+## License
+
+Threadfox is licensed under the [MIT License](LICENSE). Feel free to use and modify this software within the terms of the license.
+
+
+
