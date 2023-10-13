@@ -64,10 +64,6 @@ Our backend relies on Python libraries such as boto3, gTTS, moviepy, praw, pytub
 Threadfox allows you to bridge the gap between automation and creativity. Elevate your content strategy and create captivating videos effortlessly. Get ready to redefine your video production workflow.
 
 
-## Contributing
-
-We welcome contributions from the developer community to make Threadfox even better. Please follow our [contribution guidelines](CONTRIBUTING.md) to get started.
-
 ## License
 
 Threadfox is licensed under the [MIT License](LICENSE). Feel free to use and modify this software within the terms of the license.
