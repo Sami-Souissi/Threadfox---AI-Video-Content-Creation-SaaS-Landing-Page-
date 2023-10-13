@@ -63,7 +63,6 @@ Our backend relies on Python libraries such as boto3, gTTS, moviepy, praw, pytub
 
 Threadfox allows you to bridge the gap between automation and creativity. Elevate your content strategy and create captivating videos effortlessly. Get ready to redefine your video production workflow.
 
-## Output
 
 ## Contributing
 
