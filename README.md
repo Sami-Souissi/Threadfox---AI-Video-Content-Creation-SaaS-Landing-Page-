@@ -2,7 +2,7 @@
     <img width="30%" src="./Preview/logo.png" alt="brand logo" >
 </p>
 
-# Welcome to Threadfox - Automated Video Content Creation SaaS
+# Welcome to Threadfox - AI Video Content Creation SaaS
 
 ## Disclaimer
 
