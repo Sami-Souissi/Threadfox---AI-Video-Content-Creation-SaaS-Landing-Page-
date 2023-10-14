@@ -22,7 +22,7 @@
 
 ## Live Demo
 
-🌐 Explore the live demo of THREADFOX's landing page: [**Live Demo**](https://sami-souissi.github.io/Threadfox---Automated-Video-Content-Creation-SaaS-Landing-Page-/) 
+🌐 Explore the live demo of THREADFOX's landing page: [**Live Demo**](https://sami-souissi.github.io/Threadfox---AI-Video-Content-Creation-SaaS-Landing-Page-/) 
 
 **Check out Threadfox's Dashboard:** [**Go to Dashboard**](https://github.com/Sami-Souissi/Threadfox---AI-Video-Content-Creation-SaaS)
 
