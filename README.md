@@ -66,7 +66,7 @@ Threadfox allows you to bridge the gap between automation and creativity. Elevat
 
 ## License
 
-Threadfox is licensed under the [MIT License](LICENSE). Feel free to use and modify this software within the terms of the license.
+Threadfox is licensed under the [MIT License](LICENSE). 
 
 
 
